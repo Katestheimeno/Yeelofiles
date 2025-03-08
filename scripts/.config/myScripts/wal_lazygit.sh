@@ -28,7 +28,7 @@ done
 # Define keys and their corresponding color indices
 declare -A KEY_COLOR_MAP=(
     ["activeBorderColor"]=1
-    ["inactiveBorderColor"]=7
+    ["inactiveBorderColor"]=6
     ["searchingActiveBorderColor"]=3
     ["optionsTextColor"]=4
     ["selectedLineBgColor"]=3
