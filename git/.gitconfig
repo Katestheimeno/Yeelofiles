@@ -17,6 +17,7 @@
 		# Common Aliases
 	st = status  # Shorter 'git status'
 	co = checkout  # Shorter 'git checkout'
+	sw = switch  # Switch branches
 	br = branch  # Shorter 'git branch'
 	ci = commit  # Shorter 'git commit'
 	cm = commit -m  # Commit with message
