@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+
+ENV_FILE="$HOME/.config/myScripts/.env"
+
+if [ -f "$ENV_FILE" ]; then
+  source $ENV_FILE
+else
+  echo ".env file not found!"
+  exit 1
+fi
+
+if [ -z "$1" ]; then
+	echo "Usage: $0 <URL>"
+	exit 1
+fi
+
+url_with_token=$(echo "$1" | sed "s|https://github.com/|https://$GITHUB_TOKEN@github.com/|")
+git clone "$url_with_token"

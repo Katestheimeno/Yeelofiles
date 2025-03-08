@@ -1,0 +1,10 @@
+[Mon Nov 25 2024 16:33:26 GMT+0100 (GMT+01:00)] Open Failed: Could not find a compatible repository at 'todo_test.yml'.
+[Sun Dec 15 2024 12:13:46 GMT+0100 (GMT+01:00)] Merge Failed: There are merge conflicts that need to be resolved
+[Sun Dec 15 2024 12:18:39 GMT+0100 (GMT+01:00)] Checkout Failed: error: you need to resolve your current index first
+[Fri Dec 20 2024 18:59:30 GMT+0100 (GMT+01:00)] Merge Failed: There are merge conflicts that need to be resolved
+[Sat Jan 04 2025 22:01:25 GMT+0100 (GMT+01:00)] Open Failed: Could not find a compatible repository at 'project'.
+[Tue Jan 14 2025 00:55:14 GMT+0100 (GMT+01:00)] Fetch failed for 'origin': fatal: unable to access 'https://github.com/yousseffjel/gimbac.git/': The requested URL returned error: 500
+[Tue Jan 14 2025 01:04:40 GMT+0100 (GMT+01:00)] Open Failed: Could not find a compatible repository at 'PopupInk'.
+[Tue Jan 14 2025 01:06:05 GMT+0100 (GMT+01:00)] Clone Failed: /home/yeeloman/Projects/web/packages/ViewInk fatal: unable to access 'https://github.com/Yeeloman/ViewInk.git/': The requested URL returned error: 502
+[Mon Feb 10 2025 14:18:11 GMT+0100 (GMT+01:00)] Merge Failed: There are merge conflicts that need to be resolved
+[Thu Feb 20 2025 00:46:35 GMT+0100 (GMT+01:00)] Merge Failed: There are merge conflicts that need to be resolved

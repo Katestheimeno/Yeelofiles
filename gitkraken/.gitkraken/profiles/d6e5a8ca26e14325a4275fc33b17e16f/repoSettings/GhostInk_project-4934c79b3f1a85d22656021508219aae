@@ -1,0 +1,106 @@
+{
+  "pullRequests": {
+    "filters": [
+      {
+        "id": "c50efb1a-c6c7-4dc1-b8e7-0ad34d12fe9e",
+        "filter": "author:Yeeloman",
+        "name": "My Pull Requests",
+        "author": [
+          {
+            "not": false,
+            "values": [
+              "Yeeloman"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "f0bf2714-949f-4da3-ad85-df4cc5ed41fe",
+        "filter": "assignee:Yeeloman",
+        "name": "Assigned To Me",
+        "assignee": [
+          {
+            "not": false,
+            "values": [
+              "Yeeloman"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1bdf8e5-8a29-4557-9b0a-2af0971c86ef",
+        "filter": "review-requested:Yeeloman",
+        "name": "Awaiting My Review",
+        "review-requested": [
+          {
+            "not": false,
+            "values": [
+              "Yeeloman"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "0d53018c-2372-4805-9f95-b2b2c08e6770",
+        "filter": "",
+        "name": "All Pull Requests",
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "teams": {
+    "hasFinishedSettingUpTeams": true
+  },
+  "remoteParents": {
+    "github": {
+      "Yeeloman": {
+        "Taskara": {
+          "hostingServiceType": "github",
+          "owner": "Yeeloman",
+          "name": "GhostInk"
+        }
+      }
+    }
+  },
+  "remoteHeadCollectionByRemoteName": {
+    "origin": {}
+  },
+  "expandedSections": [
+    "TAGS"
+  ]
+}

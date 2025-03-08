@@ -1,0 +1,13 @@
+[2024-12-20T17:59:19.952Z] Merge origin/main into caisse_features: started.
+[2024-12-20T17:59:30.329Z] Merge origin/main into caisse_features: Has conflicts
+[2024-12-20T17:59:30.332Z] Merge origin/main into caisse_features: finished with errors. gk-log://duration?t=10380
+[2024-12-20T17:59:36.685Z] Opening SATM/theme/static/css/dist/styles.css in built-in merge tool: started.
+[2024-12-20T17:59:36.700Z] Opening SATM/theme/static/css/dist/styles.css in built-in merge tool: finished. gk-log://duration?t=15
+[2024-12-20T17:59:53.160Z] Save merged SATM/theme/static/css/dist/styles.css: started.
+[2024-12-20T17:59:53.179Z] Save merged SATM/theme/static/css/dist/styles.css: finished. gk-log://duration?t=19
+[2024-12-20T17:59:53.183Z] Stage SATM/theme/static/css/dist/styles.css for commit: started.
+[2024-12-20T17:59:53.404Z] Stage SATM/theme/static/css/dist/styles.css for commit: finished. gk-log://duration?t=221
+[2024-12-20T17:59:55.809Z] Finish merge origin/main into caisse_features: started.
+[2024-12-20T17:59:55.880Z] Finish merge origin/main into caisse_features: finished. gk-log://duration?t=71
+[2024-12-20T18:00:02.505Z] Push caisse_features: started.
+[2024-12-20T18:00:03.682Z] Push caisse_features: finished. gk-log://duration?t=1177

@@ -1,0 +1,15 @@
+{
+  "vimMode": true,
+  "tabSize": 4,
+  "showLineNumber": true,
+  "legacyEditor": false,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "Concepts/Game_Engine",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

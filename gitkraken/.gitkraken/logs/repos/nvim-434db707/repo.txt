@@ -1,0 +1,1 @@
+[2025-01-24T14:07:22.795Z] Fetch remote origin: fatal: unable to access 'https://github.com/Yeeloman/my_nvim.git/': Could not resolve host: github.com

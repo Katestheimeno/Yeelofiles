@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+
+# Check if the argument is provided
+if [ -z "$1" ]; then
+	echo "Error: Please provide a commit message."
+	exit 1
+fi
+
+# Commit message from the script argument
+commit_message="$1"
+
+# Git commands
+git add .
+git commit -m "$commit_message"
+git push origin HEAD
+
+echo "Changes committed and pushed successfully with message: $commit_message"

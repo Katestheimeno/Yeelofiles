@@ -1,0 +1,103 @@
+{
+  "pullRequests": {
+    "filters": [
+      {
+        "id": "1d52584d-041c-4fee-b4ca-5cd25d024114",
+        "filter": "author:Yeeloman",
+        "name": "My Pull Requests",
+        "author": [
+          {
+            "not": false,
+            "values": [
+              "Yeeloman"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "eb6409ce-f463-4df1-b0c0-142852ead690",
+        "filter": "assignee:Yeeloman",
+        "name": "Assigned To Me",
+        "assignee": [
+          {
+            "not": false,
+            "values": [
+              "Yeeloman"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "0bac235d-d6f5-4567-8ef4-582ee7a17152",
+        "filter": "review-requested:Yeeloman",
+        "name": "Awaiting My Review",
+        "review-requested": [
+          {
+            "not": false,
+            "values": [
+              "Yeeloman"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2da6584b-f885-4203-adb4-beac6280a7b9",
+        "filter": "",
+        "name": "All Pull Requests",
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "teams": {
+    "hasFinishedSettingUpTeams": true
+  },
+  "remoteParents": {
+    "github": {
+      "Yandelf00": {
+        "SATmess": {
+          "hostingServiceType": "github",
+          "owner": "Yandelf00",
+          "name": "SATmess"
+        }
+      }
+    }
+  },
+  "remoteHeadCollectionByRemoteName": {
+    "origin": {}
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "integration": {
+    "hasConnectedIntegrationByType": {
+      "github": true
+    },
+    "accessTokenMetadata": {
+      "github": {
+        "version": "legacy"
+      }
+    }
+  },
+  "tabInfo": {
+    "permanentTabs": {
+      "FOCUS_VIEW": {
+        "closed": true
+      },
+      "REPO_MANAGEMENT": {}
+    },
+    "selectedTabId": "ec6b5a25-c6ca-45c8-8c0e-e2fc522769cb",
+    "tabs": [
+      {
+        "id": "9974f240-66d2-4433-a1ae-ac733f4644d3",
+        "type": "REPO",
+        "repoName": "GhostInk_project",
+        "repoPath": "/home/yeeloman/Documents/GitHub/GhostInk_project/",
+        "skipWSLChecks": false
+      },
+      {
+        "id": "2f191949-43a2-418c-a265-9e5561cc913a",
+        "type": "REPO",
+        "repoName": "nvim",
+        "repoPath": "/home/yeeloman/.config/nvim/"
+      },
+      {
+        "id": "ec6b5a25-c6ca-45c8-8c0e-e2fc522769cb",
+        "type": "REPO",
+        "repoName": "3D",
+        "repoPath": "/home/yeeloman/Projects/env/3D/",
+        "skipWSLChecks": false
+      },
+      {
+        "id": "b640130f-3454-4adc-91e5-bd9f8b680348",
+        "type": "REPO",
+        "repoName": "SATmess",
+        "repoPath": "/home/yeeloman/Projects/env/SATmess/",
+        "skipWSLChecks": false
+      },
+      {
+        "id": "d996eb0d-3603-46f0-9992-c78d33be9261",
+        "type": "REPO",
+        "repoName": "gimbac",
+        "repoPath": "/home/yeeloman/Projects/env/gimbac/",
+        "skipWSLChecks": false
+      },
+      {
+        "id": "0201eed4-82f2-434b-9fbb-68241599655b",
+        "type": "NEW"
+      }
+    ]
+  },
+  "projects": {},
+  "externalEditor": "VS Code",
+  "organizationId": null,
+  "focusView": {
+    "selectedFocusViewTabSettingsId": "personalPullRequest",
+    "focusViewTabSettingsById": {
+      "personalPullRequest": {
+        "id": "personalPullRequest",
+        "name": "Pull Requests",
+        "viewType": "PERSONAL",
+        "pageType": "PULL_REQUEST",
+        "filters": {
+          "pullRequestProvider": "github",
+          "issueProvider": null,
+          "userIds": null,
+          "labelIds": null,
+          "involvement": null,
+          "pullRequestOrganizationId": null,
+          "milestoneIds": null,
+          "fixVersionIds": null,
+          "sprintIds": null,
+          "iterationIds": null,
+          "azureDevops": null,
+          "jiraCloud": null,
+          "jiraServer": null,
+          "trello": null
+        },
+        "settings": {
+          "density": "standard",
+          "fields": {
+            "linesChanged": true,
+            "useInitials": false,
+            "comments": true,
+            "likes": true,
+            "fixVersions": true,
+            "sprints": true,
+            "labels": true,
+            "milestones": true,
+            "mentions": true
+          }
+        },
+        "type": "local"
+      },
+      "personalIssue": {
+        "id": "personalIssue",
+        "name": "Issues",
+        "viewType": "PERSONAL",
+        "pageType": "ISSUE",
+        "filters": {
+          "pullRequestProvider": null,
+          "issueProvider": "github",
+          "userIds": null,
+          "labelIds": null,
+          "involvement": null,
+          "pullRequestOrganizationId": null,
+          "milestoneIds": null,
+          "fixVersionIds": null,
+          "sprintIds": null,
+          "iterationIds": null,
+          "azureDevops": null,
+          "jiraCloud": null,
+          "jiraServer": null,
+          "trello": null
+        },
+        "settings": {
+          "density": "standard",
+          "fields": {
+            "linesChanged": true,
+            "useInitials": false,
+            "comments": true,
+            "likes": true,
+            "fixVersions": true,
+            "sprints": true,
+            "labels": true,
+            "milestones": true,
+            "mentions": true
+          }
+        },
+        "type": "local"
+      },
+      "personalWip": {
+        "id": "personalWip",
+        "name": "WIPs",
+        "viewType": "PERSONAL",
+        "pageType": "WIP",
+        "filters": {
+          "pullRequestProvider": null,
+          "issueProvider": null,
+          "userIds": null,
+          "labelIds": null,
+          "involvement": null,
+          "pullRequestOrganizationId": null,
+          "milestoneIds": null,
+          "fixVersionIds": null,
+          "sprintIds": null,
+          "iterationIds": null,
+          "azureDevops": null,
+          "jiraCloud": null,
+          "jiraServer": null,
+          "trello": null
+        },
+        "settings": {
+          "density": "standard",
+          "fields": {
+            "linesChanged": true,
+            "useInitials": false,
+            "comments": true,
+            "likes": true,
+            "fixVersions": true,
+            "sprints": true,
+            "labels": true,
+            "milestones": true,
+            "mentions": true
+          }
+        },
+        "type": "local"
+      },
+      "personalAll": {
+        "id": "personalAll",
+        "name": "All",
+        "viewType": "PERSONAL",
+        "pageType": "ALL",
+        "filters": {
+          "pullRequestProvider": "github",
+          "issueProvider": "github",
+          "userIds": null,
+          "labelIds": null,
+          "involvement": null,
+          "pullRequestOrganizationId": null,
+          "milestoneIds": null,
+          "fixVersionIds": null,
+          "sprintIds": null,
+          "iterationIds": null,
+          "azureDevops": null,
+          "jiraCloud": null,
+          "jiraServer": null,
+          "trello": null
+        },
+        "settings": {
+          "density": "standard",
+          "fields": {
+            "linesChanged": true,
+            "useInitials": false,
+            "comments": true,
+            "likes": true,
+            "fixVersions": true,
+            "sprints": true,
+            "labels": true,
+            "milestones": true,
+            "mentions": true
+          }
+        },
+        "type": "local"
+      },
+      "personalSnoozed": {
+        "id": "personalSnoozed",
+        "name": "Snoozed",
+        "viewType": "PERSONAL",
+        "pageType": "SNOOZED",
+        "filters": {
+          "pullRequestProvider": "github",
+          "issueProvider": "github",
+          "userIds": null,
+          "labelIds": null,
+          "involvement": null,
+          "pullRequestOrganizationId": null,
+          "milestoneIds": null,
+          "fixVersionIds": null,
+          "sprintIds": null,
+          "iterationIds": null,
+          "azureDevops": null,
+          "jiraCloud": null,
+          "jiraServer": null,
+          "trello": null
+        },
+        "settings": {
+          "density": "standard",
+          "fields": {
+            "linesChanged": true,
+            "useInitials": false,
+            "comments": true,
+            "likes": true,
+            "fixVersions": true,
+            "sprints": true,
+            "labels": true,
+            "milestones": true,
+            "mentions": true
+          }
+        },
+        "type": "local"
+      },
+      "teamPullRequest": {
+        "id": "teamPullRequest",
+        "name": "Pull Requests",
+        "viewType": "TEAM",
+        "pageType": "PULL_REQUEST",
+        "filters": {
+          "pullRequestProvider": "github",
+          "issueProvider": null,
+          "userIds": null,
+          "labelIds": null,
+          "involvement": null,
+          "pullRequestOrganizationId": null,
+          "milestoneIds": null,
+          "fixVersionIds": null,
+          "sprintIds": null,
+          "iterationIds": null,
+          "azureDevops": null,
+          "jiraCloud": null,
+          "jiraServer": null,
+          "trello": null
+        },
+        "settings": {
+          "density": "standard",
+          "fields": {
+            "linesChanged": true,
+            "useInitials": false,
+            "comments": true,
+            "likes": true,
+            "fixVersions": true,
+            "sprints": true,
+            "labels": true,
+            "milestones": true,
+            "mentions": true
+          }
+        },
+        "type": "local"
+      },
+      "teamIssue": {
+        "id": "teamIssue",
+        "name": "Issues",
+        "viewType": "TEAM",
+        "pageType": "ISSUE",
+        "filters": {
+          "pullRequestProvider": null,
+          "issueProvider": "github",
+          "userIds": null,
+          "labelIds": null,
+          "involvement": null,
+          "pullRequestOrganizationId": null,
+          "milestoneIds": null,
+          "fixVersionIds": null,
+          "sprintIds": null,
+          "iterationIds": null,
+          "azureDevops": null,
+          "jiraCloud": null,
+          "jiraServer": null,
+          "trello": null
+        },
+        "settings": {
+          "density": "standard",
+          "fields": {
+            "linesChanged": true,
+            "useInitials": false,
+            "comments": true,
+            "likes": true,
+            "fixVersions": true,
+            "sprints": true,
+            "labels": true,
+            "milestones": true,
+            "mentions": true
+          }
+        },
+        "type": "local"
+      }
+    }
+  },
+  "userEmail": "yami.onlyme@gmail.com",
+  "userName": "Yeeloman",
+  "gpg": {
+    "commitGpgSign": false,
+    "tagForceSignAnnotated": false
+  },
+  "layout": {
+    "DetailPanel": {
+      "open": true,
+      "width": 369
+    },
+    "RefPanel": {
+      "open": true
+    }
+  },
+  "repoInit": {
+    "lastOpenedRepoPath": "/home/yeeloman/Projects/web/packages/PopupInk",
+    "lastRepoInitPath": "/home/yeeloman/Projects/web/packages/"
+  },
+  "cli": {
+    "cliPanelVisible": false
+  },
+  "editor": {
+    "fontFamily": "\"FiraCode Nerd Font\"",
+    "wordWrap": true
+  },
+  "ui": {
+    "graphOptions": {
+      "columns": {
+        "commitZone": {
+          "mode": "text"
+        },
+        "commitAuthorZone": {
+          "visible": false
+        }
+      }
+    },
+    "theme": "dark",
+    "repoManagementTab": {
+      "defaultWorkspaceColorId": "graph-color-2",
+      "defaultGroupColorId": "graph-color-4"
+    }
+  },
+  "zoom": 1,
+  "fileNodeList": {
+    "viewMode": "full_path"
+  },
+  "hostingServiceFrecencyMetadata": {
+    "github": {
+      "id": "github",
+      "timestamps": [
+        1736813146904
+      ],
+      "total": 1
+    }
+  }
+}

@@ -1,0 +1,40 @@
+#!/usr/bin/env bash
+
+# Set the wallpapers directory
+WALLPAPER_DIR="$HOME/.config/nvim/.wallpapers"
+BSPWM_APPLY="$HOME/.config/bspwm/themes/Yeelotheme/apply.sh"
+
+# Check if directories and files exist
+if [ ! -d "$WALLPAPER_DIR" ]; then
+    echo "Wallpaper directory not found: $WALLPAPER_DIR"
+    exit 1
+fi
+
+if [ ! -f "$BSPWM_APPLY" ]; then
+    echo "BSPWM apply script not found: $BSPWM_APPLY"
+    exit 1
+fi
+
+
+# Get the current wallpaper
+CURRENT_WALLPAPER=$(cat "$HOME/.config/nvim/lua/current_wallpaper.txt")
+
+# Choose a random image
+WALLPAPER=$(find "$WALLPAPER_DIR" -type f | grep -v "$CURRENT_WALLPAPER" | shuf -n 1)
+# WALLPAPER=$(find "$WALLPAPER_DIR" -type f | shuf -n 1)
+
+# Check if a wallpaper was found
+if [ -z "$WALLPAPER" ]; then
+    echo "No wallpapers found in directory: $WALLPAPER_DIR"
+    exit 1
+fi
+
+# Apply the wallpaper using wal
+wal -i "$WALLPAPER" --backend haishoku -q --saturate 0.9
+pywalfox update
+
+# Apply BSPWM theme
+"$BSPWM_APPLY"
+
+# Export the chosen wallpaper path to a file
+echo "$WALLPAPER" > "$HOME/.config/nvim/lua/current_wallpaper.txt"

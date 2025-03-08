@@ -1,0 +1,53 @@
+[user]
+	email = yami.onlyme@gmail.com
+	name = Yeeloman
+[core]
+	editor = nvim
+[pull]
+	rebase = false
+[init]
+	defaultBranch = main
+[push]
+	autoSetupRemote = true 
+[credential]
+	helper = store
+[color]
+	ui = auto 
+[alias]
+		# Common Aliases
+	st = status  # Shorter 'git status'
+	co = checkout  # Shorter 'git checkout'
+	br = branch  # Shorter 'git branch'
+	ci = commit  # Shorter 'git commit'
+	cm = commit -m  # Commit with message
+	ca = commit --amend  # Amend last commit
+	df = diff  # Shorter 'git diff'
+	lg = log --oneline --graph --decorate --all  # Better log visualization
+	lga = log --oneline --graph --decorate --all --author="Yeeloman"  # Show only your commits
+
+		#  Syncing Changes
+	pl = pull --rebase  # Always rebase on pull (override pull.rebase if needed)
+	ps = push  # Shorter 'git push'
+	psf = push --force  # Force push (be careful!)
+
+		# 🗑️ Cleaning Up
+	clean-branches = "!git branch --merged | grep -v '\\*' | xargs -n 1 git branch -d"  # Delete merged branches
+	clean-untracked = "!git clean -fd"  # Remove untracked files and directories
+
+		# 🛠️ Submodule Aliases
+	smi = submodule update --init --recursive  # Initialize submodules
+	smu = submodule update --remote --merge  # Update submodules
+	sma = submodule add  # Add submodules
+	smc = clone --recurse-submodules
+
+		# 🔥 Undo Mistakes
+	undo = reset --soft HEAD~1  # Undo last commit but keep changes
+	discard = checkout -- .  # Discard all uncommitted changes
+	unstage = reset HEAD --  # Unstage files from commit
+
+[diff]
+	tool = nvimdiff  # Use Neovim for diffs
+
+[merge]
+	tool = nvimdiff  # Use Neovim for merging
+	conflictstyle = diff3  # Show more context in merge conflicts

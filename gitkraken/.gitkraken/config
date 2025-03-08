@@ -1,0 +1,302 @@
+{
+  "lastUpgradeScriptRun": "v10.5.0",
+  "appId": "ae124e3c4c87c69e1ad4d2b67a9462744f696acb",
+  "appLocale": "ar-MA",
+  "appDateFormat": null,
+  "appDateTimeFormat": null,
+  "appDateWordFormat": null,
+  "appDateVerboseFormat": null,
+  "userMilestones": {
+    "installId": "51152feb-cf43-4e73-86fc-b3967bd12b9e",
+    "firstAppOpen": true,
+    "firstLoginRegister": true,
+    "connectIntegration": true,
+    "startATrial": true,
+    "firstProfileCreated": true,
+    "completedNewUserOnboarding": true,
+    "firstRepoOpened": true,
+    "guideOpened": true,
+    "firstTimeCommitSelected": true,
+    "acknowledgedCommitDetailPanel": true,
+    "leftPanelToggled": true,
+    "acknowledgedLeftPanel": true,
+    "acknowledgedWorktrees_10_5_0": true,
+    "createACommit": true,
+    "pushSomeCode": true,
+    "mergeABranch": true,
+    "makeABranch": true
+  },
+  "sslWhitelist": [],
+  "lastReleaseNotesDisplayed": "10.5.0",
+  "ui": {
+    "shouldShowStartupPromoModal": false,
+    "needsToAcknowledgeWorktrees": true
+  },
+  "aliases": {
+    "repo": {},
+    "tabs": {}
+  },
+  "windowSettings": {
+    "x": 16,
+    "y": 42,
+    "width": 1344,
+    "height": 694,
+    "fullScreen": false,
+    "maximized": false
+  },
+  "registration": {
+    "email": "yami.onlyme@gmail.com",
+    "name": "Yeeloman",
+    "status": "activated",
+    "loginType": "github",
+    "date": "2024-11-08T00:47:15.327Z",
+    "EULA": {
+      "version": "8.3.1",
+      "status": "agree_verified"
+    }
+  },
+  "userId": "ee836207-9f2a-458d-bd72-52add9ab0454",
+  "licensedFeatures": [
+    "pro",
+    "gitgui:pro",
+    "gitlens:pro",
+    "bundle:pro",
+    "gitkraken_v1:pro",
+    "suite:pro",
+    "student",
+    "gitgui:student",
+    "gitlens:student",
+    "bundle:student",
+    "gitkraken_v1:student",
+    "suite:student"
+  ],
+  "orgSettingsByOrgId": {
+    "65c65c3e2cebeb5ee1e23d7a": {
+      "aiSettings": {
+        "enabled": true,
+        "createdAt": "2024-03-11T14:46:58.762882Z",
+        "updatedAt": "2024-03-11T14:46:58.762882Z"
+      },
+      "draftsSettings": {
+        "enabled": true,
+        "createdAt": "2024-03-11T14:46:58.763793Z",
+        "updatedAt": "2024-03-11T14:46:58.763793Z"
+      },
+      "ssoSettings": {
+        "enabled": false,
+        "enforced": false,
+        "provision": false,
+        "createdAt": "2024-03-11T14:46:58.762882Z",
+        "updatedAt": "2024-03-11T14:46:58.762882Z"
+      },
+      "memberInvitesRequireApproval": true,
+      "createdAt": "2024-03-11T14:46:58.762882Z",
+      "updatedAt": "2024-03-11T14:46:58.762882Z"
+    }
+  },
+  "userFeatures": [
+    {
+      "name": "activityStatus"
+    },
+    {
+      "name": "changePriceEnabled"
+    },
+    {
+      "name": "cli"
+    },
+    {
+      "name": "experimentalAiCommmitMsg"
+    },
+    {
+      "name": "experimentalGitBinary"
+    },
+    {
+      "name": "experimentalGitBinaryDefaultOn960"
+    },
+    {
+      "name": "experimentalGitBinaryDefaultOn971"
+    },
+    {
+      "name": "experimentalGitBinarySpawnServer961"
+    },
+    {
+      "name": "gitBash"
+    },
+    {
+      "name": "gitkraken"
+    },
+    {
+      "name": "gkApi"
+    },
+    {
+      "name": "gkdOnboardingTutorial_10_5_0"
+    },
+    {
+      "name": "gkDotDevAutomations"
+    },
+    {
+      "name": "gkdTutorialSkipFirstStep_10_8_0"
+    },
+    {
+      "name": "goldenTicketSpecial"
+    },
+    {
+      "name": "onboardingGuide"
+    },
+    {
+      "name": "privateRepoModalTest_10_5_0"
+    },
+    {
+      "name": "registeredForGST"
+    },
+    {
+      "name": "terminalInsideRepoTab"
+    },
+    {
+      "name": "unregisteredTrials"
+    },
+    {
+      "name": "useNewTrialStartModalTest_10_8_0"
+    },
+    {
+      "name": "velocityInClient_9_0_0"
+    },
+    {
+      "name": "workspacesPRComplexity"
+    }
+  ],
+  "onboarding": {
+    "tutorialVariant": "10_4_0"
+  },
+  "fuzzyFinderMetadata": {
+    "itemMetadata": {
+      "OPEN_REPO": {
+        "openRepo-/home/yeeloman/Documents/GitHub/GhostInk_project": {
+          "id": "openRepo-/home/yeeloman/Documents/GitHub/GhostInk_project",
+          "timestamps": [
+            1731026870895
+          ],
+          "total": 1
+        },
+        "openRepo-/home/yeeloman/Projects/env/3D": {
+          "id": "openRepo-/home/yeeloman/Projects/env/3D",
+          "timestamps": [
+            1734261142719
+          ],
+          "total": 1
+        },
+        "openRepo-/home/yeeloman/Projects/env/SATmess": {
+          "id": "openRepo-/home/yeeloman/Projects/env/SATmess",
+          "timestamps": [
+            1734717525771
+          ],
+          "total": 1
+        },
+        "openRepo-/home/yeeloman/Projects/env/gimbac/project": {
+          "id": "openRepo-/home/yeeloman/Projects/env/gimbac/project",
+          "timestamps": [
+            1736024484997
+          ],
+          "total": 1
+        },
+        "openRepo-/home/yeeloman/Projects/env/gimbac": {
+          "id": "openRepo-/home/yeeloman/Projects/env/gimbac",
+          "timestamps": [
+            1736024494321
+          ],
+          "total": 1
+        },
+        "openRepo-/home/yeeloman/Projects/web/packages/PopupInk": {
+          "id": "openRepo-/home/yeeloman/Projects/web/packages/PopupInk",
+          "timestamps": [
+            1736812449927
+          ],
+          "total": 1
+        }
+      },
+      "TOP": {
+        "openEmbeddedTerminal": {
+          "id": "openEmbeddedTerminal",
+          "timestamps": [
+            1734262654381
+          ],
+          "total": 1
+        },
+        "toggleLeftPanel": {
+          "id": "toggleLeftPanel",
+          "timestamps": [
+            1734262662172,
+            1734262667009
+          ],
+          "total": 2
+        },
+        "toggleDetailPanel": {
+          "id": "toggleDetailPanel",
+          "timestamps": [
+            1734262675044
+          ],
+          "total": 1
+        },
+        "push": {
+          "id": "push",
+          "timestamps": [
+            1734262723889,
+            1734717602474
+          ],
+          "total": 2
+        }
+      }
+    },
+    "queryMetadata": {
+      "TOP": {
+        "command": [
+          {
+            "id": "openEmbeddedTerminal",
+            "timestamps": [
+              1734262654383
+            ],
+            "total": 1
+          }
+        ],
+        "pan": [
+          {
+            "id": "toggleLeftPanel",
+            "timestamps": [
+              1734262662173
+            ],
+            "total": 1
+          }
+        ],
+        "toggle": [
+          {
+            "id": "toggleDetailPanel",
+            "timestamps": [
+              1734262675044
+            ],
+            "total": 1
+          }
+        ],
+        "push": [
+          {
+            "id": "push",
+            "timestamps": [
+              1734262723891,
+              1734717602475
+            ],
+            "total": 2
+          }
+        ]
+      }
+    }
+  },
+  "commits": {
+    "maxCommitsInGraph": 2000
+  },
+  "notification": {
+    "settings": {
+      "local": {
+        "showDesktopNotifications": true
+      }
+    }
+  }
+}

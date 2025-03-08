@@ -1,0 +1,79 @@
+#!/usr/bin/env bash
+
+# Function to display available sessions and prompt user action
+display_menu() {
+	echo "Available Zellij Sessions:"
+	# List all existing Zellij sessions
+	sessions=$(zellij list-sessions)
+	echo "$sessions"
+	echo "---------------------------"
+	echo "Attach to an existing session (a)"
+	echo "Create a new session (n)"
+	echo "Delete a session (d)"
+	echo "Delete all sessions (da)"
+	echo "---------------------------"
+	echo -n "Choose an option : "
+	read option
+}
+
+# Function to attach to an existing session
+attach_session() {
+	# echo "Available Zellij Sessions:"
+	# List all existing Zellij sessions
+	sessions=$(zellij list-sessions)
+	# echo "$sessions"
+	echo "---------------------------"
+	echo -n "Enter the session name to attach to: "
+	read session_name
+	zellij attach $session_name
+}
+
+# Function to create a new session
+create_session() {
+	echo -n "Enter a new session name: "
+	read session_name
+	zellij attach --create $session_name
+}
+
+# Function to delete a session
+delete_session() {
+	echo -n "Enter a session name: "
+	read session_name
+	zellij k $session_name
+	zellij d $session_name
+}
+
+# Function to delete all sessions
+delete_all_sessions() {
+	zellij ka
+	zellij da
+}
+
+# Main script logic
+while true; do
+	if [[ -n "$ZELLIJ" ]]; then
+		# Do nothing if already inside a Zellij session
+		break
+	else
+		display_menu
+
+		case $option in
+		"a")
+			attach_session
+			;;
+		"n")
+			create_session
+			;;
+		"d")
+			delete_session
+			;;
+		"da")
+			delete_all_sessions
+			create_session
+			;;
+		*)
+			echo "Invalid option, please choose 1 or 2."
+			;;
+		esac
+	fi
+done

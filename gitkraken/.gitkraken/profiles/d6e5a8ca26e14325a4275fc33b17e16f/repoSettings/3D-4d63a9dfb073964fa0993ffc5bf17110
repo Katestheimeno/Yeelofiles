@@ -1,0 +1,113 @@
+{
+  "pullRequests": {
+    "filters": [
+      {
+        "id": "3a58e654-72b3-4767-846d-881797176816",
+        "filter": "author:Yeeloman",
+        "name": "My Pull Requests",
+        "author": [
+          {
+            "not": false,
+            "values": [
+              "Yeeloman"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ef6e1920-7b05-4b15-840a-658053d497ca",
+        "filter": "assignee:Yeeloman",
+        "name": "Assigned To Me",
+        "assignee": [
+          {
+            "not": false,
+            "values": [
+              "Yeeloman"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4636a7ec-9ff3-4e1f-b77c-61f7e54c8f29",
+        "filter": "review-requested:Yeeloman",
+        "name": "Awaiting My Review",
+        "review-requested": [
+          {
+            "not": false,
+            "values": [
+              "Yeeloman"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "f5c9315c-dd0c-4c13-afdd-59af7a2da542",
+        "filter": "",
+        "name": "All Pull Requests",
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "teams": {
+    "hasFinishedSettingUpTeams": true
+  },
+  "remoteParents": {
+    "github": {
+      "digiwearit": {
+        "3D": {
+          "hostingServiceType": "github",
+          "owner": "digiwearit",
+          "name": "3D"
+        }
+      }
+    }
+  },
+  "remoteHeadCollectionByRemoteName": {
+    "origin": {}
+  },
+  "expandedSections": [],
+  "upstreamFrecencyMetadata": {
+    "origin": {
+      "id": "remote-origin",
+      "timestamps": [
+        1740009326525
+      ],
+      "total": 1
+    }
+  }
+}

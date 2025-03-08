@@ -1,0 +1,95 @@
+[2024-12-15T11:13:44.326Z] Merge ui_2D into main: started.
+[2024-12-15T11:13:44.359Z] Auto-stash uncommitted changes: started.
+[2024-12-15T11:13:44.381Z] Stage 110 files for stash: started.
+[2024-12-15T11:13:44.445Z] Stage 110 files for stash: finished. gk-log://duration?t=64
+[2024-12-15T11:13:45.110Z] Auto-stash uncommitted changes: finished. Stash sha: 6d5a33c755b74da588a44e1e2e94fb5c86ac1d2f gk-log://duration?t=751
+[2024-12-15T11:13:46.007Z] Merge ui_2D into main: Has conflicts
+[2024-12-15T11:13:46.010Z] Merge ui_2D into main: finished with errors. gk-log://duration?t=3
+[2024-12-15T11:18:39.007Z] Checkout refs/heads/ui_2D: started.
+[2024-12-15T11:18:39.118Z] Checkout refs/heads/ui_2D: finished. gk-log://duration?t=111
+[2024-12-15T11:37:59.310Z] Opening Digiwearit/theme/static/css/dist/styles.css in built-in merge tool: started.
+[2024-12-15T11:37:59.348Z] Opening Digiwearit/theme/static/css/dist/styles.css in built-in merge tool: finished. gk-log://duration?t=38
+[2024-12-15T11:38:07.074Z] Save merged Digiwearit/theme/static/css/dist/styles.css: started.
+[2024-12-15T11:38:07.109Z] Save merged Digiwearit/theme/static/css/dist/styles.css: finished. gk-log://duration?t=35
+[2024-12-15T11:38:07.114Z] Stage Digiwearit/theme/static/css/dist/styles.css for commit: started.
+[2024-12-15T11:38:07.403Z] Stage Digiwearit/theme/static/css/dist/styles.css for commit: finished. gk-log://duration?t=289
+[2024-12-15T11:38:23.693Z] Commit: started.
+[2024-12-15T11:38:24.016Z] Commit: successfully created commit 4aeba579c1f89d453afe2aef500d065e0b980ad0
+[2024-12-15T11:38:24.018Z] Commit: finished gk-log://duration?t=325
+[2024-12-15T11:38:43.931Z] Push main: started.
+[2024-12-15T11:38:44.876Z] Push main: finished. gk-log://duration?t=945
+[2025-02-10T13:18:10.830Z] Merge interfaces_branch into merge_branch: started.
+[2025-02-10T13:18:11.043Z] Merge interfaces_branch into merge_branch: Has conflicts
+[2025-02-10T13:18:11.045Z] Merge interfaces_branch into merge_branch: finished with errors. gk-log://duration?t=215
+[2025-02-10T13:18:19.692Z] Opening Digiwearit/store/migrations/0001_initial.py in built-in merge tool: started.
+[2025-02-10T13:18:19.715Z] Opening Digiwearit/store/migrations/0001_initial.py in built-in merge tool: finished. gk-log://duration?t=23
+[2025-02-10T13:18:40.533Z] Save merged Digiwearit/store/migrations/0001_initial.py: started.
+[2025-02-10T13:18:40.676Z] Save merged Digiwearit/store/migrations/0001_initial.py: finished. gk-log://duration?t=143
+[2025-02-10T13:18:40.679Z] Stage Digiwearit/store/migrations/0001_initial.py for commit: started.
+[2025-02-10T13:18:40.998Z] Stage Digiwearit/store/migrations/0001_initial.py for commit: finished. gk-log://duration?t=319
+[2025-02-10T13:18:49.882Z] Stage Digiwearit/theme/static/css/dist/styles.css for commit: started.
+[2025-02-10T13:18:50.074Z] Stage Digiwearit/theme/static/css/dist/styles.css for commit: finished. gk-log://duration?t=192
+[2025-02-10T13:18:51.381Z] Stage Digiwearit/vto/migrations/0001_initial.py for commit: started.
+[2025-02-10T13:18:51.588Z] Stage Digiwearit/vto/migrations/0001_initial.py for commit: finished. gk-log://duration?t=207
+[2025-02-10T13:18:53.148Z] Opening Digiwearit/vto/templates/vto/vto_ui.html in built-in merge tool: started.
+[2025-02-10T13:18:53.166Z] Opening Digiwearit/vto/templates/vto/vto_ui.html in built-in merge tool: finished. gk-log://duration?t=18
+[2025-02-10T13:22:28.659Z] Open Digiwearit/vto/templates/vto/vto_ui.html in merge tool: started.
+[2025-02-10T13:22:32.928Z] Open Digiwearit/vto/templates/vto/vto_ui.html in merge tool: The "command" argument must be of type string. Received undefined
+[2025-02-10T13:22:32.930Z] Open Digiwearit/vto/templates/vto/vto_ui.html in merge tool: finished with errors. gk-log://duration?t=4271
+[2025-02-10T13:25:07.329Z] Save merged Digiwearit/vto/templates/vto/vto_ui.html: started.
+[2025-02-10T13:25:07.442Z] Save merged Digiwearit/vto/templates/vto/vto_ui.html: finished. gk-log://duration?t=113
+[2025-02-10T13:25:07.444Z] Stage Digiwearit/vto/templates/vto/vto_ui.html for commit: started.
+[2025-02-10T13:25:07.800Z] Stage Digiwearit/vto/templates/vto/vto_ui.html for commit: finished. gk-log://duration?t=356
+[2025-02-10T13:25:18.410Z] Finish merge interfaces_branch into merge_branch: started.
+[2025-02-10T13:25:18.518Z] Finish merge interfaces_branch into merge_branch: finished. gk-log://duration?t=108
+[2025-02-19T23:46:33.948Z] Merge dev into last_dev: started.
+[2025-02-19T23:46:33.990Z] Auto-stash uncommitted changes: started.
+[2025-02-19T23:46:34.025Z] Stage 50 files for stash: started.
+[2025-02-19T23:46:34.365Z] Stage 50 files for stash: finished. gk-log://duration?t=340
+[2025-02-19T23:46:34.452Z] Auto-stash uncommitted changes: finished. Stash sha: 7a0f2b2c340cac6304f958286367a92e2a4862d1 gk-log://duration?t=462
+[2025-02-19T23:46:34.965Z] Merge dev into last_dev: Has conflicts
+[2025-02-19T23:46:34.967Z] Merge dev into last_dev: finished with errors. gk-log://duration?t=2
+[2025-02-19T23:48:15.166Z] Opening Digiwearit/vto/templates/snippets/processed_2d_img.html in built-in merge tool: started.
+[2025-02-19T23:48:15.209Z] Opening Digiwearit/vto/templates/snippets/processed_2d_img.html in built-in merge tool: finished. gk-log://duration?t=43
+[2025-02-19T23:52:45.960Z] Save merged Digiwearit/vto/templates/snippets/processed_2d_img.html: started.
+[2025-02-19T23:52:45.970Z] Save merged Digiwearit/vto/templates/snippets/processed_2d_img.html: finished. gk-log://duration?t=10
+[2025-02-19T23:52:45.973Z] Stage Digiwearit/vto/templates/snippets/processed_2d_img.html for commit: started.
+[2025-02-19T23:52:46.335Z] Stage Digiwearit/vto/templates/snippets/processed_2d_img.html for commit: finished. gk-log://duration?t=362
+[2025-02-19T23:52:49.979Z] Opening Makefile in built-in merge tool: started.
+[2025-02-19T23:52:50.047Z] Opening Makefile in built-in merge tool: finished. gk-log://duration?t=68
+[2025-02-19T23:53:06.613Z] Save merged Makefile: started.
+[2025-02-19T23:53:06.630Z] Save merged Makefile: finished. gk-log://duration?t=17
+[2025-02-19T23:53:06.634Z] Stage Makefile for commit: started.
+[2025-02-19T23:53:06.922Z] Stage Makefile for commit: finished. gk-log://duration?t=288
+[2025-02-19T23:53:08.753Z] Opening Digiwearit/vto/templates/vto/vto_ui.html in built-in merge tool: started.
+[2025-02-19T23:53:08.784Z] Opening Digiwearit/vto/templates/vto/vto_ui.html in built-in merge tool: finished. gk-log://duration?t=31
+[2025-02-19T23:54:24.570Z] Save merged Digiwearit/vto/templates/vto/vto_ui.html: started.
+[2025-02-19T23:54:27.305Z] Save merged Digiwearit/vto/templates/vto/vto_ui.html: cancelled. gk-log://duration?t=2735
+[2025-02-19T23:55:05.200Z] Save merged Digiwearit/vto/templates/vto/vto_ui.html: started.
+[2025-02-19T23:55:05.338Z] Save merged Digiwearit/vto/templates/vto/vto_ui.html: finished. gk-log://duration?t=138
+[2025-02-19T23:55:05.351Z] Stage Digiwearit/vto/templates/vto/vto_ui.html for commit: started.
+[2025-02-19T23:55:05.609Z] Stage Digiwearit/vto/templates/vto/vto_ui.html for commit: finished. gk-log://duration?t=258
+[2025-02-19T23:55:10.143Z] Finish merge dev into last_dev: started.
+[2025-02-19T23:55:10.235Z] Finish merge dev into last_dev: finished. gk-log://duration?t=92
+[2025-02-19T23:55:19.405Z] Push last_dev: started.
+[2025-02-19T23:55:26.408Z] Set upstream for refs/heads/last_dev: started.
+[2025-02-19T23:55:26.723Z] Set upstream for refs/heads/last_dev: finished.
+[2025-02-19T23:55:27.856Z] Push last_dev: finished. gk-log://duration?t=8451
+[2025-02-20T14:59:47.871Z] Merge main into dev: started.
+[2025-02-20T14:59:47.916Z] Auto-stash uncommitted changes: started.
+[2025-02-20T14:59:47.954Z] Stage 3 files for stash: started.
+[2025-02-20T14:59:48.181Z] Stage 3 files for stash: finished. gk-log://duration?t=227
+[2025-02-20T14:59:48.256Z] Auto-stash uncommitted changes: finished. Stash sha: 5062fd78f26c6bd0ab2a691f7924306297027eec gk-log://duration?t=340
+[2025-02-20T14:59:48.643Z] Pop most recent stash: started.
+[2025-02-20T14:59:48.861Z] Pop stash d51264725db9112d1e04ef86ea667e42618c038d: finished. gk-log://duration?t=218
+[2025-02-20T14:59:49.235Z] Merge main into dev: finished.
+[2025-02-27T19:18:30.050Z] Create ref refs/heads/before_setting_refactor at a9ce5d2348c2f760b9aa27e80328735ffa9f9ea1: started.
+[2025-02-27T19:18:30.124Z] Checkout refs/heads/before_setting_refactor: started.
+[2025-02-27T19:18:31.384Z] Checkout refs/heads/before_setting_refactor: finished.
+[2025-02-27T19:18:31.628Z] Create ref refs/heads/before_setting_refactor at a9ce5d2348c2f760b9aa27e80328735ffa9f9ea1: finished.
+[2025-03-05T15:52:44.839Z] Opening Digiwearit/theme/static/css/dist/styles.css in built-in merge tool: started.
+[2025-03-05T15:52:44.877Z] Opening Digiwearit/theme/static/css/dist/styles.css in built-in merge tool: finished. gk-log://duration?t=38
+[2025-03-05T15:53:00.189Z] Save merged Digiwearit/theme/static/css/dist/styles.css: started.
+[2025-03-05T15:53:00.219Z] Save merged Digiwearit/theme/static/css/dist/styles.css: finished. gk-log://duration?t=30
+[2025-03-05T15:53:00.226Z] Stage Digiwearit/theme/static/css/dist/styles.css for commit: started.
+[2025-03-05T15:53:01.002Z] Stage Digiwearit/theme/static/css/dist/styles.css for commit: finished. gk-log://duration?t=776
