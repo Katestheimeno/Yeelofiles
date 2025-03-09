@@ -22,6 +22,9 @@
 	ci = commit  # Shorter 'git commit'
 	cm = commit -m  # Commit with message
 	ca = commit --amend  # Amend last commit
+	mr = merge  # Shorter 'git merge'
+	sh = stash  # Shorter 'git stash'
+	shu = stash -u  # Stash untracked changes
 	df = diff  # Shorter 'git diff'
 	lg = log --oneline --graph --decorate --all  # Better log visualization
 	lga = log --oneline --graph --decorate --all --author="Yeeloman"  # Show only your commits
