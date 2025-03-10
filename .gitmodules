@@ -4,3 +4,6 @@
 [submodule "bspwm/.config/bspwm"]
 	path = bspwm/.config/bspwm
 	url = https://github.com/Yeeloman/bspwm.git
+[submodule "sddm/themes/yeelo-sddm"]
+	path = sddm/themes/yeelo-sddm
+	url = https://github.com/Yeeloman/yeelo-sddm.git
