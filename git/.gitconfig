@@ -55,3 +55,5 @@
 [merge]
 	tool = nvimdiff  # Use Neovim for merging
 	conflictstyle = diff3  # Show more context in merge conflicts
+[safe]
+	directory = /usr/share/sddm/themes/yeelo-sddm
