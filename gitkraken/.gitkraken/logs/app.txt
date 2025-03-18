@@ -686,3 +686,85 @@
 [2025-03-05T15:52:40.070Z] Set profile setting ["projects"] to {}: finished. gk-log://duration?t=210
 [2025-03-05T15:53:03.508Z] Send usage data to Axosoft: started.
 [2025-03-05T15:53:03.676Z] Send usage data to Axosoft: finished. gk-log://duration?t=168
+[2025-03-11T02:58:01.122Z] Set profile setting ["organizationId"] to null: started.
+[2025-03-11T02:58:01.134Z] Set profile setting ["organizationId"] to null: finished. gk-log://duration?t=556
+[2025-03-11T02:58:01.882Z] Verify SSH key for GitHub: started.
+[2025-03-11T02:58:01.887Z] Verify SSH key for GitHub: finished.
+[2025-03-11T02:58:03.515Z] Detecting Git and Git LFS: started
+[2025-03-11T02:58:04.356Z] Open repository /home/yeeloman/Projects/env/3D/: started.
+[2025-03-11T02:58:04.487Z] Detected Git: 2.45.2
+[2025-03-11T02:58:04.496Z] Detected Git LFS: 3.5.1
+[2025-03-11T02:58:04.511Z] Detecting Git and Git LFS: finished gk-log://duration?t=996
+[2025-03-11T02:58:06.103Z] Open repository /home/yeeloman/Projects/env/3D/: finished.
+[2025-03-11T02:58:06.107Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"FOCUS_VIEW":{"closed":true},"REPO_MANAGEMENT":{}},"selectedTabId":"ec6b5a25-c6ca-45c8-8c0e-e2fc522769cb","tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"GhostInk_project","repoPath":"/home/yeeloman/Documents/GitHub/GhostInk_project/","skipWSLChecks":false},{"id":"2f191949-43a2-418c-a265-9e5561cc913a","type":"REPO","repoName":"nvim","repoPath":"/home/yeeloman/.config/nvim/"},{"id":"ec6b5a25-c6ca-45c8-8c0e-e2fc522769cb","type":"REPO","repoName":"3D","repoPath":"/home/yeeloman/Projects/env/3D/","skipWSLChecks":false},{"id":"b640130f-3454-4adc-91e5-bd9f8b680348","type":"REPO","repoName":"SATmess","repoPath":"/home/yeeloman/Projects/env/SATmess/","skipWSLChecks":false},{"id":"d996eb0d-3603-46f0-9992-c78d33be9261","type":"REPO","repoName":"gimbac","repoPath":"/home/yeeloman/Projects/env/gimbac/","skipWSLChecks":false},{"id":"0201eed4-82f2-434b-9fbb-68241599655b","type":"NEW"}]}: started.
+[2025-03-11T02:58:06.109Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"FOCUS_VIEW":{"closed":true},"REPO_MANAGEMENT":{}},"selectedTabId":"ec6b5a25-c6ca-45c8-8c0e-e2fc522769cb","tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"GhostInk_project","repoPath":"/home/yeeloman/Documents/GitHub/GhostInk_project/","skipWSLChecks":false},{"id":"2f191949-43a2-418c-a265-9e5561cc913a","type":"REPO","repoName":"nvim","repoPath":"/home/yeeloman/.config/nvim/"},{"id":"ec6b5a25-c6ca-45c8-8c0e-e2fc522769cb","type":"REPO","repoName":"3D","repoPath":"/home/yeeloman/Projects/env/3D/","skipWSLChecks":false},{"id":"b640130f-3454-4adc-91e5-bd9f8b680348","type":"REPO","repoName":"SATmess","repoPath":"/home/yeeloman/Projects/env/SATmess/","skipWSLChecks":false},{"id":"d996eb0d-3603-46f0-9992-c78d33be9261","type":"REPO","repoName":"gimbac","repoPath":"/home/yeeloman/Projects/env/gimbac/","skipWSLChecks":false},{"id":"0201eed4-82f2-434b-9fbb-68241599655b","type":"NEW"}]}: finished. gk-log://duration?t=2
+[2025-03-11T02:58:06.742Z] Set profile setting ["projects"] to {}: started.
+[2025-03-11T02:58:06.753Z] Set profile setting ["projects"] to {}: finished. gk-log://duration?t=164
+[2025-03-11T02:58:07.452Z] Set profile setting ["projects"] to {}: started.
+[2025-03-11T02:58:07.457Z] Set profile setting ["projects"] to {}: finished. gk-log://duration?t=180
+[2025-03-11T02:58:30.676Z] Send usage data to Axosoft: started.
+[2025-03-11T02:58:30.807Z] Send usage data to Axosoft: finished. gk-log://duration?t=131
+[2025-03-12T00:28:13.449Z] Set profile setting ["organizationId"] to null: started.
+[2025-03-12T00:28:13.455Z] Set profile setting ["organizationId"] to null: finished. gk-log://duration?t=521
+[2025-03-12T00:28:14.192Z] Verify SSH key for GitHub: started.
+[2025-03-12T00:28:14.203Z] Verify SSH key for GitHub: finished.
+[2025-03-12T00:28:15.826Z] Detecting Git and Git LFS: started
+[2025-03-12T00:28:16.817Z] Open repository /home/yeeloman/Projects/env/3D/: started.
+[2025-03-12T00:28:17.620Z] Detected Git: 2.45.2
+[2025-03-12T00:28:17.625Z] Detected Git LFS: 3.5.1
+[2025-03-12T00:28:17.632Z] Detecting Git and Git LFS: finished gk-log://duration?t=1806
+[2025-03-12T00:28:18.799Z] Open repository /home/yeeloman/Projects/env/3D/: finished.
+[2025-03-12T00:28:18.805Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"FOCUS_VIEW":{"closed":true},"REPO_MANAGEMENT":{}},"selectedTabId":"ec6b5a25-c6ca-45c8-8c0e-e2fc522769cb","tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"GhostInk_project","repoPath":"/home/yeeloman/Documents/GitHub/GhostInk_project/","skipWSLChecks":false},{"id":"2f191949-43a2-418c-a265-9e5561cc913a","type":"REPO","repoName":"nvim","repoPath":"/home/yeeloman/.config/nvim/"},{"id":"ec6b5a25-c6ca-45c8-8c0e-e2fc522769cb","type":"REPO","repoName":"3D","repoPath":"/home/yeeloman/Projects/env/3D/","skipWSLChecks":false},{"id":"b640130f-3454-4adc-91e5-bd9f8b680348","type":"REPO","repoName":"SATmess","repoPath":"/home/yeeloman/Projects/env/SATmess/","skipWSLChecks":false},{"id":"d996eb0d-3603-46f0-9992-c78d33be9261","type":"REPO","repoName":"gimbac","repoPath":"/home/yeeloman/Projects/env/gimbac/","skipWSLChecks":false},{"id":"0201eed4-82f2-434b-9fbb-68241599655b","type":"NEW"}]}: started.
+[2025-03-12T00:28:18.807Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"FOCUS_VIEW":{"closed":true},"REPO_MANAGEMENT":{}},"selectedTabId":"ec6b5a25-c6ca-45c8-8c0e-e2fc522769cb","tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"GhostInk_project","repoPath":"/home/yeeloman/Documents/GitHub/GhostInk_project/","skipWSLChecks":false},{"id":"2f191949-43a2-418c-a265-9e5561cc913a","type":"REPO","repoName":"nvim","repoPath":"/home/yeeloman/.config/nvim/"},{"id":"ec6b5a25-c6ca-45c8-8c0e-e2fc522769cb","type":"REPO","repoName":"3D","repoPath":"/home/yeeloman/Projects/env/3D/","skipWSLChecks":false},{"id":"b640130f-3454-4adc-91e5-bd9f8b680348","type":"REPO","repoName":"SATmess","repoPath":"/home/yeeloman/Projects/env/SATmess/","skipWSLChecks":false},{"id":"d996eb0d-3603-46f0-9992-c78d33be9261","type":"REPO","repoName":"gimbac","repoPath":"/home/yeeloman/Projects/env/gimbac/","skipWSLChecks":false},{"id":"0201eed4-82f2-434b-9fbb-68241599655b","type":"NEW"}]}: finished. gk-log://duration?t=2
+[2025-03-12T00:28:19.297Z] Set profile setting ["projects"] to {}: started.
+[2025-03-12T00:28:19.308Z] Set profile setting ["projects"] to {}: finished. gk-log://duration?t=171
+[2025-03-12T00:28:20.051Z] Set profile setting ["projects"] to {}: started.
+[2025-03-12T00:28:20.057Z] Set profile setting ["projects"] to {}: finished. gk-log://duration?t=164
+[2025-03-12T00:48:11.759Z] Set profile setting ["fileView","diffDisplayMode"] to "inline": started.
+[2025-03-12T00:48:11.769Z] Set profile setting ["fileView","diffDisplayMode"] to "inline": finished. gk-log://duration?t=10
+[2025-03-12T00:48:15.139Z] Set profile setting ["fileView","diffDisplayMode"] to "split": started.
+[2025-03-12T00:48:15.148Z] Set profile setting ["fileView","diffDisplayMode"] to "split": finished. gk-log://duration?t=9
+[2025-03-15T13:54:34.217Z] Set profile setting ["organizationId"] to null: started.
+[2025-03-15T13:54:34.223Z] Set profile setting ["organizationId"] to null: finished. gk-log://duration?t=540
+[2025-03-15T13:54:34.726Z] Verify SSH key for GitHub: started.
+[2025-03-15T13:54:34.731Z] Verify SSH key for GitHub: finished.
+[2025-03-15T13:54:36.097Z] Detecting Git and Git LFS: started
+[2025-03-15T13:54:36.976Z] Open repository /home/yeeloman/Projects/env/3D/: started.
+[2025-03-15T13:54:37.124Z] Detected Git: 2.45.2
+[2025-03-15T13:54:37.131Z] Detected Git LFS: 3.5.1
+[2025-03-15T13:54:37.657Z] Detecting Git and Git LFS: finished gk-log://duration?t=1560
+[2025-03-15T13:54:39.091Z] Open repository /home/yeeloman/Projects/env/3D/: finished.
+[2025-03-15T13:54:39.098Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"FOCUS_VIEW":{"closed":true},"REPO_MANAGEMENT":{}},"selectedTabId":"ec6b5a25-c6ca-45c8-8c0e-e2fc522769cb","tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"GhostInk_project","repoPath":"/home/yeeloman/Documents/GitHub/GhostInk_project/","skipWSLChecks":false},{"id":"2f191949-43a2-418c-a265-9e5561cc913a","type":"REPO","repoName":"nvim","repoPath":"/home/yeeloman/.config/nvim/"},{"id":"ec6b5a25-c6ca-45c8-8c0e-e2fc522769cb","type":"REPO","repoName":"3D","repoPath":"/home/yeeloman/Projects/env/3D/","skipWSLChecks":false},{"id":"b640130f-3454-4adc-91e5-bd9f8b680348","type":"REPO","repoName":"SATmess","repoPath":"/home/yeeloman/Projects/env/SATmess/","skipWSLChecks":false},{"id":"d996eb0d-3603-46f0-9992-c78d33be9261","type":"REPO","repoName":"gimbac","repoPath":"/home/yeeloman/Projects/env/gimbac/","skipWSLChecks":false},{"id":"0201eed4-82f2-434b-9fbb-68241599655b","type":"NEW"}]}: started.
+[2025-03-15T13:54:39.101Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"FOCUS_VIEW":{"closed":true},"REPO_MANAGEMENT":{}},"selectedTabId":"ec6b5a25-c6ca-45c8-8c0e-e2fc522769cb","tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"GhostInk_project","repoPath":"/home/yeeloman/Documents/GitHub/GhostInk_project/","skipWSLChecks":false},{"id":"2f191949-43a2-418c-a265-9e5561cc913a","type":"REPO","repoName":"nvim","repoPath":"/home/yeeloman/.config/nvim/"},{"id":"ec6b5a25-c6ca-45c8-8c0e-e2fc522769cb","type":"REPO","repoName":"3D","repoPath":"/home/yeeloman/Projects/env/3D/","skipWSLChecks":false},{"id":"b640130f-3454-4adc-91e5-bd9f8b680348","type":"REPO","repoName":"SATmess","repoPath":"/home/yeeloman/Projects/env/SATmess/","skipWSLChecks":false},{"id":"d996eb0d-3603-46f0-9992-c78d33be9261","type":"REPO","repoName":"gimbac","repoPath":"/home/yeeloman/Projects/env/gimbac/","skipWSLChecks":false},{"id":"0201eed4-82f2-434b-9fbb-68241599655b","type":"NEW"}]}: finished. gk-log://duration?t=3
+[2025-03-15T13:54:39.883Z] Set profile setting ["projects"] to {}: started.
+[2025-03-15T13:54:39.978Z] Set profile setting ["projects"] to {}: finished. gk-log://duration?t=267
+[2025-03-15T13:54:40.592Z] Set profile setting ["projects"] to {}: started.
+[2025-03-15T13:54:40.646Z] Set profile setting ["projects"] to {}: finished. gk-log://duration?t=216
+[2025-03-15T13:55:03.758Z] Send usage data to Axosoft: started.
+[2025-03-15T13:55:03.898Z] Send usage data to Axosoft: finished. gk-log://duration?t=140
+[2025-03-18T09:14:18.122Z] Set profile setting ["organizationId"] to null: started.
+[2025-03-18T09:14:18.127Z] Set profile setting ["organizationId"] to null: finished. gk-log://duration?t=329
+[2025-03-18T09:14:18.856Z] Verify SSH key for GitHub: started.
+[2025-03-18T09:14:18.861Z] Verify SSH key for GitHub: finished.
+[2025-03-18T09:14:20.139Z] Detecting Git and Git LFS: started
+[2025-03-18T09:14:21.070Z] Open repository /home/yeeloman/Projects/env/3D/: started.
+[2025-03-18T09:14:21.201Z] Detected Git: 2.45.2
+[2025-03-18T09:14:21.207Z] Detected Git LFS: 3.5.1
+[2025-03-18T09:14:21.809Z] Detecting Git and Git LFS: finished gk-log://duration?t=1670
+[2025-03-18T09:14:22.706Z] Open repository /home/yeeloman/Projects/env/3D/: finished.
+[2025-03-18T09:14:22.721Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"FOCUS_VIEW":{"closed":true},"REPO_MANAGEMENT":{}},"selectedTabId":"ec6b5a25-c6ca-45c8-8c0e-e2fc522769cb","tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"GhostInk_project","repoPath":"/home/yeeloman/Documents/GitHub/GhostInk_project/","skipWSLChecks":false},{"id":"2f191949-43a2-418c-a265-9e5561cc913a","type":"REPO","repoName":"nvim","repoPath":"/home/yeeloman/.config/nvim/"},{"id":"ec6b5a25-c6ca-45c8-8c0e-e2fc522769cb","type":"REPO","repoName":"3D","repoPath":"/home/yeeloman/Projects/env/3D/","skipWSLChecks":false},{"id":"b640130f-3454-4adc-91e5-bd9f8b680348","type":"REPO","repoName":"SATmess","repoPath":"/home/yeeloman/Projects/env/SATmess/","skipWSLChecks":false},{"id":"d996eb0d-3603-46f0-9992-c78d33be9261","type":"REPO","repoName":"gimbac","repoPath":"/home/yeeloman/Projects/env/gimbac/","skipWSLChecks":false},{"id":"0201eed4-82f2-434b-9fbb-68241599655b","type":"NEW"}]}: started.
+[2025-03-18T09:14:22.727Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"FOCUS_VIEW":{"closed":true},"REPO_MANAGEMENT":{}},"selectedTabId":"ec6b5a25-c6ca-45c8-8c0e-e2fc522769cb","tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"GhostInk_project","repoPath":"/home/yeeloman/Documents/GitHub/GhostInk_project/","skipWSLChecks":false},{"id":"2f191949-43a2-418c-a265-9e5561cc913a","type":"REPO","repoName":"nvim","repoPath":"/home/yeeloman/.config/nvim/"},{"id":"ec6b5a25-c6ca-45c8-8c0e-e2fc522769cb","type":"REPO","repoName":"3D","repoPath":"/home/yeeloman/Projects/env/3D/","skipWSLChecks":false},{"id":"b640130f-3454-4adc-91e5-bd9f8b680348","type":"REPO","repoName":"SATmess","repoPath":"/home/yeeloman/Projects/env/SATmess/","skipWSLChecks":false},{"id":"d996eb0d-3603-46f0-9992-c78d33be9261","type":"REPO","repoName":"gimbac","repoPath":"/home/yeeloman/Projects/env/gimbac/","skipWSLChecks":false},{"id":"0201eed4-82f2-434b-9fbb-68241599655b","type":"NEW"}]}: finished. gk-log://duration?t=6
+[2025-03-18T09:14:23.285Z] Set profile setting ["projects"] to {}: started.
+[2025-03-18T09:14:23.299Z] Set profile setting ["projects"] to {}: finished. gk-log://duration?t=179
+[2025-03-18T09:14:23.746Z] Set profile setting ["projects"] to {}: started.
+[2025-03-18T09:14:23.753Z] Set profile setting ["projects"] to {}: finished. gk-log://duration?t=172
+[2025-03-18T09:14:47.894Z] Send usage data to Axosoft: started.
+[2025-03-18T09:14:48.052Z] Send usage data to Axosoft: finished. gk-log://duration?t=158
+[2025-03-18T09:44:24.514Z] Set profile setting ["projects"] to {}: started.
+[2025-03-18T09:44:24.540Z] Set profile setting ["projects"] to {}: finished. gk-log://duration?t=465
+[2025-03-18T10:14:24.582Z] Set profile setting ["projects"] to {}: started.
+[2025-03-18T10:14:24.603Z] Set profile setting ["projects"] to {}: finished. gk-log://duration?t=524
+[2025-03-18T10:44:24.530Z] Set profile setting ["projects"] to {}: started.
+[2025-03-18T10:44:24.543Z] Set profile setting ["projects"] to {}: finished. gk-log://duration?t=463
+[2025-03-18T11:14:24.422Z] Set profile setting ["projects"] to {}: started.
+[2025-03-18T11:14:24.444Z] Set profile setting ["projects"] to {}: finished. gk-log://duration?t=360

@@ -37,8 +37,8 @@
     "tabs": {}
   },
   "windowSettings": {
-    "x": 16,
-    "y": 42,
+    "x": 14,
+    "y": 40,
     "width": 1344,
     "height": 694,
     "fullScreen": false,
@@ -154,9 +154,6 @@
     },
     {
       "name": "unregisteredTrials"
-    },
-    {
-      "name": "useNewTrialStartModalTest_10_8_0"
     },
     {
       "name": "velocityInClient_9_0_0"

@@ -380,5 +380,8 @@
       ],
       "total": 1
     }
+  },
+  "fileView": {
+    "diffDisplayMode": "split"
   }
 }

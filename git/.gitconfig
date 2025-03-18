@@ -18,6 +18,7 @@
 	st = status  # Shorter 'git status'
 	co = checkout  # Shorter 'git checkout'
 	sw = switch  # Switch branches
+	swc = switch -c # create new branch
 	br = branch  # Shorter 'git branch'
 	ci = commit  # Shorter 'git commit'
 	cm = commit -m  # Commit with message
@@ -33,6 +34,10 @@
 	pl = pull --rebase  # Always rebase on pull (override pull.rebase if needed)
 	ps = push  # Shorter 'git push'
 	psf = push --force  # Force push (be careful!)
+
+	# diffs
+	dw = diff --word-diff
+	ds = diff --staged  # Show staged changes
 
 		# 🗑️ Cleaning Up
 	clean-branches = "!git branch --merged | grep -v '\\*' | xargs -n 1 git branch -d"  # Delete merged branches
