@@ -1,0 +1,26 @@
+---
+"workspace:shift_focus_left": alt-shift-left
+"pane_group:navigate_left": alt-shift-H
+"editor_view:vim_exit_insert_mode": ctrl-!
+"pane_group:toggle_maximize_pane": alt-shift-enter
+"pane_group:resize_down": ctrl-alt-shift-J
+"workspace:update_and_relaunch": alt-shift-U
+"pane_group:resize_left": ctrl-alt-shift-H
+"workspace:edit_prompt": ctrl-alt-shift-E
+"input:search_command_history": ctrl-shift-H
+"workspace:new_tab": ctrl-t
+"pane_group:navigate_right": alt-shift-L
+"pane_group:resize_right": ctrl-alt-shift-L
+"terminal:copy": ctrl-c
+"pane_group:add_right": ctrl-shift-D
+"pane_group:navigate_down": alt-shift-J
+"workspace:show_theme_chooser": ctrl-alt-shift-/
+"terminal:paste": ctrl-v
+"workspace:rename_active_tab": f2
+"pane_group:navigate_up": alt-shift-K
+"workspace:create_personal_workflow": alt-shift-W
+"editor_view:clear_buffer": none
+"workspace:toggle_navigation_palette": ctrl-$
+"editor_view:insert_autosuggestion": ^
+"input:toggle_workflows": ctrl-^
+"pane_group:resize_up": ctrl-alt-shift-K
