@@ -252,3 +252,5 @@ super + n ; {1-9}
 # Switch to last opened workspace
 super + {Tab,grave}
 	bspc {node,desktop} -f last
+
+
