@@ -13,13 +13,14 @@ check_keyboard() {
 
 # Main logic
 if check_keyboard; then
-  echo ""
+	setxkbmap us
 else
   # echo "Do you want to swap Caps Lock and Control keys? (yes/no)"
   # read -r response
 
   # if [[ "$response" =~ ^[Yy](es)?$ ]]; then
-  setxkbmap -option ctrl:swapcaps
+  # setxkbmap -option ctrl:swapcaps
+	setxkbmap fr
   #   echo "The Caps Lock and Control keys have been swapped."
   # else
   #   echo "No changes made."

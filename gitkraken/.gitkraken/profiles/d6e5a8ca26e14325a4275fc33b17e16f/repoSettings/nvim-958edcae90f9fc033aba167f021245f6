@@ -1,0 +1,100 @@
+{
+  "pullRequests": {
+    "filters": [
+      {
+        "id": "4799f325-0f4e-4e92-a017-21a32ede3b8a",
+        "filter": "author:Yeeloman",
+        "name": "My Pull Requests",
+        "author": [
+          {
+            "not": false,
+            "values": [
+              "Yeeloman"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "78e51ae4-9a5d-4747-ae1e-b392f82fece3",
+        "filter": "assignee:Yeeloman",
+        "name": "Assigned To Me",
+        "assignee": [
+          {
+            "not": false,
+            "values": [
+              "Yeeloman"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "63891cd0-ca6b-47a1-8bdf-794a8c0bde97",
+        "filter": "review-requested:Yeeloman",
+        "name": "Awaiting My Review",
+        "review-requested": [
+          {
+            "not": false,
+            "values": [
+              "Yeeloman"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fbabc565-694b-4d33-b124-bb7b899e5e1e",
+        "filter": "",
+        "name": "All Pull Requests",
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "teams": {
+    "hasFinishedSettingUpTeams": true
+  },
+  "remoteParents": {
+    "github": {
+      "Yeeloman": {
+        "nvim": {
+          "hostingServiceType": "github",
+          "owner": "Yeeloman",
+          "name": "nvim"
+        }
+      }
+    }
+  }
+}

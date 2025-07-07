@@ -36,6 +36,9 @@ pywalfox update
 # Apply BSPWM theme
 "$BSPWM_APPLY"
 
+# Apply the wallpaper on betterlockscreen
+betterlockscreen -u "$WALLPAPER"
+
 # Export the chosen wallpaper path to a file
 echo "$WALLPAPER" > "$HOME/.config/nvim/lua/current_wallpaper.txt"
 export WAL_WALLPAPER="$WALLPAPER"

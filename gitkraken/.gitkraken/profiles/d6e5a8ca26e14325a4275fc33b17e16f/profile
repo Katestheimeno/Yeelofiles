@@ -16,7 +16,7 @@
       },
       "REPO_MANAGEMENT": {}
     },
-    "selectedTabId": "ec6b5a25-c6ca-45c8-8c0e-e2fc522769cb",
+    "selectedTabId": "9974f240-66d2-4433-a1ae-ac733f4644d3",
     "tabs": [
       {
         "id": "9974f240-66d2-4433-a1ae-ac733f4644d3",
@@ -30,13 +30,6 @@
         "type": "REPO",
         "repoName": "nvim",
         "repoPath": "/home/yeeloman/.config/nvim/"
-      },
-      {
-        "id": "ec6b5a25-c6ca-45c8-8c0e-e2fc522769cb",
-        "type": "REPO",
-        "repoName": "3D",
-        "repoPath": "/home/yeeloman/Projects/env/3D/",
-        "skipWSLChecks": false
       },
       {
         "id": "b640130f-3454-4adc-91e5-bd9f8b680348",
@@ -60,7 +53,7 @@
   },
   "projects": {},
   "externalEditor": "VS Code",
-  "organizationId": null,
+  "organizationId": "65c65c3e2cebeb5ee1e23d7a",
   "focusView": {
     "selectedFocusViewTabSettingsId": "personalPullRequest",
     "focusViewTabSettingsById": {
@@ -345,7 +338,8 @@
     "lastRepoInitPath": "/home/yeeloman/Projects/web/packages/"
   },
   "cli": {
-    "cliPanelVisible": false
+    "cliPanelVisible": false,
+    "fontFamily": "\"Liberation Mono\""
   },
   "editor": {
     "fontFamily": "\"FiraCode Nerd Font\"",

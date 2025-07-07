@@ -1,3 +1,5 @@
 [2024-11-11T01:20:48.360Z] Push expand_shades: started.
 [2024-11-11T01:20:49.337Z] Push expand_shades: error: failed to push some refs to 'https://github.com/Yeeloman/Taskara.git'
 [2024-11-11T01:20:49.339Z] Push expand_shades: finished with errors. gk-log://duration?t=979
+[2025-06-30T16:43:24.165Z] Fetch remote origin: fatal: unable to access 'https://github.com/Yeeloman/Taskara.git/': Could not resolve host: github.com
+[2025-06-30T17:03:24.176Z] Fetch remote origin: fatal: unable to access 'https://github.com/Yeeloman/Taskara.git/': Could not resolve host: github.com

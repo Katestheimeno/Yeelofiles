@@ -37,10 +37,10 @@
     "tabs": {}
   },
   "windowSettings": {
-    "x": 14,
-    "y": 40,
-    "width": 1344,
-    "height": 694,
+    "x": 726,
+    "y": 55,
+    "width": 634,
+    "height": 707,
     "fullScreen": false,
     "maximized": false
   },
@@ -56,20 +56,7 @@
     }
   },
   "userId": "ee836207-9f2a-458d-bd72-52add9ab0454",
-  "licensedFeatures": [
-    "pro",
-    "gitgui:pro",
-    "gitlens:pro",
-    "bundle:pro",
-    "gitkraken_v1:pro",
-    "suite:pro",
-    "student",
-    "gitgui:student",
-    "gitlens:student",
-    "bundle:student",
-    "gitkraken_v1:student",
-    "suite:student"
-  ],
+  "licensedFeatures": [],
   "orgSettingsByOrgId": {
     "65c65c3e2cebeb5ee1e23d7a": {
       "aiSettings": {
@@ -90,6 +77,13 @@
         "updatedAt": "2024-03-11T14:46:58.762882Z"
       },
       "memberInvitesRequireApproval": true,
+      "conflictDetectionEnabled": true,
+      "aiEnabled": true,
+      "enforceAiProviders": false,
+      "aiProviders": {},
+      "ssoEnabled": false,
+      "ssoEnforced": false,
+      "ssoProvision": false,
       "createdAt": "2024-03-11T14:46:58.762882Z",
       "updatedAt": "2024-03-11T14:46:58.762882Z"
     }
@@ -129,10 +123,55 @@
       "name": "gkApi"
     },
     {
+      "name": "gkdAIFeedback_11_2_0"
+    },
+    {
+      "name": "gkdConflictPreventionFeedback_11_1_0"
+    },
+    {
+      "name": "gkDevConflictPreventionSetting"
+    },
+    {
+      "name": "gkDevReferralSystem"
+    },
+    {
+      "name": "gkDevTeamLaunchpadEntitlement"
+    },
+    {
+      "name": "gkdOnboardingQuestionnaire_11_3_0"
+    },
+    {
       "name": "gkdOnboardingTutorial_10_5_0"
     },
     {
       "name": "gkDotDevAutomations"
+    },
+    {
+      "name": "gkDotDevCycleTime"
+    },
+    {
+      "name": "gkDotDevEnforceAiControls"
+    },
+    {
+      "name": "gkDotDevPurchaseCheckoutShowPlanFeatures"
+    },
+    {
+      "name": "gkDotDevPurchaseMonthlyPriceAndNoCoupon"
+    },
+    {
+      "name": "gkDotDevRadialPaymentMethods"
+    },
+    {
+      "name": "gkDotSignupWithCheckoutSidebar"
+    },
+    {
+      "name": "gkdReferralProgram_11_0_0"
+    },
+    {
+      "name": "gkdShowToolbarInviteButton_11_2_0"
+    },
+    {
+      "name": "gkdTrialStartModalPromoMessage_11_1_0"
     },
     {
       "name": "gkdTutorialSkipFirstStep_10_8_0"
@@ -154,6 +193,9 @@
     },
     {
       "name": "unregisteredTrials"
+    },
+    {
+      "name": "useNewTrialStartModalTest_10_8_0"
     },
     {
       "name": "velocityInClient_9_0_0"
