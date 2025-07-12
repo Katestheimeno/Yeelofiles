@@ -21,41 +21,41 @@ gui:
   theme:
     # Borders and active line colors
     activeBorderColor:
-      - "#08379d"
+      - "#7f0791"
       - bold
     inactiveBorderColor:
-      - "#f77984"
+      - "#e30cab"
     searchingActiveBorderColor:
-      - "#1447f2"
+      - "#b209a5"
       - bold
 
       # Text and selected line colors
     optionsTextColor:
-      - "#4215f2"
+      - "#0884a0"
     selectedLineBgColor:
-      - "#1447f2"
+      - "#b209a5"
     inactiveViewSelectedLineBgColor:
       - bold
 
       # Cherry-picked commit colors
     cherryPickedCommitFgColor:
-      - "#4215f2"
+      - "#0884a0"
     cherryPickedCommitBgColor:
-      - "#0a4bc8"
+      - "#075592"
 
       # Marked base commit colors
     markedBaseCommitFgColor:
-      - "#4215f2"
+      - "#0884a0"
     markedBaseCommitBgColor:
-      - "#08379d"
+      - "#7f0791"
 
       # Unstaged changes color
     unstagedChangesColor:
-      - "#16181b"
+      - "#16191c"
 
       # Default foreground color
     defaultFgColor:
-      - "#f77984"
+      - "#e30cab"
   commitLength:
     show: true
   showListFooter: true

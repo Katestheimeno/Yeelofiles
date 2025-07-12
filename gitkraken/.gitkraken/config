@@ -37,10 +37,10 @@
     "tabs": {}
   },
   "windowSettings": {
-    "x": 726,
-    "y": 55,
-    "width": 634,
-    "height": 707,
+    "x": 2385,
+    "y": 40,
+    "width": 895,
+    "height": 1000,
     "fullScreen": false,
     "maximized": false
   },
@@ -138,10 +138,10 @@
       "name": "gkDevTeamLaunchpadEntitlement"
     },
     {
-      "name": "gkdOnboardingQuestionnaire_11_3_0"
+      "name": "gkdOnboardingTutorial_10_5_0"
     },
     {
-      "name": "gkdOnboardingTutorial_10_5_0"
+      "name": "gkDotDevAllAccess"
     },
     {
       "name": "gkDotDevAutomations"
@@ -160,6 +160,9 @@
     },
     {
       "name": "gkDotDevRadialPaymentMethods"
+    },
+    {
+      "name": "gkDotDevSupportADO"
     },
     {
       "name": "gkDotSignupWithCheckoutSidebar"
